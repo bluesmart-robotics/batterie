@@ -1,3 +1,7 @@
+<!-- boardrepo-badge:v1 -->
+[![View on BoardRepo](https://boardrepo.com/badge/github.svg?v=2)](https://boardrepo.com/b/def2d518-d971-4d70-adca-c127f0465930?ref=github-readme)
+<!-- /boardrepo-badge:v1 -->
+
 # batterie
 
 Électronique du pack batterie du E-dolly : chargeur, carte écran et interface
